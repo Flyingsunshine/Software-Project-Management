@@ -1,0 +1,256 @@
+PROJECT NAME (ANONYMISED),SPRINT NAME,TICKET TITLE,DEADLINE (MINUTES),DURATION (MINUTES),STORY POINT,PRIORITY,DEPENDENCY
+ACME,Sprint 3,Backend - Add new field in the database for storing meeting type,120,100,2,Medium,-
+ACME,Sprint 3,Web Frontend - Approved & reject button in Appointment is missing for Admin,60,153,1,High,-
+ACME,Sprint 3,Backend - Change Appointment accept logic,120,424,2,Medium,-
+ACME,Sprint 3,Backend API - Delete Meeting,120,55,2,Medium,-
+ACME,Sprint 3,"Backend API - Add ManagedBy field in Auth0, Employee Cache and Frontend/Backend",120,30,2,Medium,-
+ACME,Sprint 3,Backend API - Integrate S3 bucket for Hosting Static Assets,120,501,2,High,-
+ACME,Sprint 3,Web frontend - Make reload/buffering icon in middle of the web,60,22,1,Medium,-
+ACME,Sprint 3,Mobile App - Integrate Auth0 Based Authenticaton,,986,5,Medium,-
+ACME,Sprint 3,Web Frontend - Change Edit button color inside the employee information extend(POP-UP) section,60,27,1,High,-
+ACME,Sprint 3,Web Frontend - Admin - Update frontend design of email verification tabs/page Jasper new design,120,161,2,Medium,-
+ACME,Sprint 3,Web Frontend - Integrate Organization Update API,120,29,2,Medium,-
+ACME,Sprint 3,Web Frontend - Integrate Profile Fetch API on Profile Page,60,60,1,Medium,-
+ACME,Sprint 3,Web Frontend - Integrate Employee List Fetch API on Employee List Page,60,23,1,Medium,-
+ACME,Sprint 3,Web Frontend - Change New Employee Invitation Popup Message,60,31,1,Medium,-
+ACME,Sprint 3,Web Frontend - Link Profile Option with Setting Personal Section,60,55,1,Highest,-
+ACME,Sprint 3,Web Frontend - Handle Employee Email Invitation Query Parameters to Add New Employee into Existing Organization,120,28,2,High,-
+ACME,Sprint 3,"Web Frontend - ""Remove form validation for disabled input fields"" in personal information edit page",60,30,1,Medium,-
+ACME,Sprint 3,Backend API - Contacts - Create Contact API,120,136,2,Medium,-
+ACME,Sprint 3,Web Frontend - Contacts - Create Contact API Integration in the frontend,60,109,1,Medium,-
+ACME,Sprint 3,Backend API - Contacts - Create Fetch Contacts API and Fetch Single Contact API,60,95,1,Medium,-
+ACME,Sprint 3,Web Frontend - Contacts - Get all the contact in the frontend using Fetch Contacts API,60,32,1,Medium,-
+ACME,Sprint 3,Backend API - Contacts - Edit Contact API,120,60,2,Medium,-
+ACME,Sprint 3,Web Frontend - Contacts - Implement Edit Contact API in the frontend,60,26,1,Medium,-
+ACME,Sprint 3,Backend API - Settings - Create Edit Employee API,60,83,1,Medium,-
+ACME,Sprint 3,Web Frontend - Settings - Implement Edit Employee API,60,78,1,Medium,-
+ACME,Sprint 3,Web Frontend - Settings - Cursor Pointer white hovering over the edit icon,60,57,1,Medium,-
+ACME,Sprint 3,Web Frontend - Settings - Show loader while tabs are loading,60,23,1,Medium,-
+ACME,Sprint 3,Web Frontend - Settings - Show Active Tab,60,16,1,Medium,-
+ACME,Sprint 3,Web Frontend - Application is not going past Organization Create screen,60,19,1,Highest,-
+ACME,Sprint 3,Web Frontend - Fix the issue of Employee table Data fetching,60,66,1,High,-
+ACME,Sprint 3,Backend API - Changes in Tour Plan Create and Update API to integrate with Auth0,120,31,2,Medium,-
+ACME,Sprint 3,Backend API - Changes in Expense Create and Update API to integrate with Auth0,60,101,1,Medium,-
+ACME,Sprint 3,Web Frontend - Change text input into dropdown menu of state in organization edit page & profile edit page & employee edit page ,120,33,2,Medium,-
+ACME,Sprint 3,Backend API - Fix Gender in Personal information edit page & employee edit page,60,88,1,High,-
+ACME,Sprint 3,Web Frontend - Terms and Conditions & Privacy Policy not Working in Footer,60,65,1,Medium,-
+ACME,Sprint 4,DevOps - Automate infrastructure scaling during peak hours,168,160,5,Highest,-
+ACME,Sprint 6,Backend - Improve caching mechanism for frequently accessed data,87,39,1,Low,-
+ACME,Sprint 5,DevOps - Optimize logging system for better error tracking,417,425,5,High,-
+GammaTech,Sprint 6,Backend - Implement JWT-based authentication in user login API,412,375,5,High,-
+BetaCorp,Sprint 5,Frontend - Enhance accessibility features in the dashboard,241,213,3,Low,-
+GammaTech,Sprint 3,DevOps - Set up CI/CD pipeline for automated deployments,121,112,2,Low,-
+GammaTech,Sprint 4,Frontend - Improve form validation in the signup workflow,122,87,1,High,-
+ACME,Sprint 5,Bug Fix - Resolve intermittent 500 errors in the checkout flow,47,53,1,High,-
+ACME,Sprint 6,Mobile - Refactor mobile app login flow to support OAuth,327,325,5,High,-
+BetaCorp,Sprint 4,Frontend - Redesign the navigation bar with improved dropdowns,166,120,2,Medium,-
+BetaCorp,Sprint 6,Backend - Refactor legacy code in the payment processing module,244,210,5,Medium,-
+GammaTech,Sprint 6,Mobile - Implement push notifications for new user messages,126,106,2,High,-
+GammaTech,Sprint 4,Bug Fix - Resolve issue with incorrect password reset emails,432,390,5,Highest,-
+BetaCorp,Sprint 5,Frontend - Implement dark mode toggle in user settings,116,108,2,Highest,-
+BetaCorp,Sprint 3,API - Develop endpoint for exporting user reports as CSV,42,33,1,Medium,-
+BetaCorp,Sprint 3,DevOps - Automate infrastructure scaling during peak hours,140,129,3,High,-
+ACME,Sprint 3,DevOps - Migrate server infrastructure to Kubernetes,251,255,5,Medium,-
+BetaCorp,Sprint 6,Frontend - Enhance accessibility features in the dashboard,325,325,5,Highest,-
+ACME,Sprint 5,Frontend - Improve form validation in the signup workflow,244,231,3,High,-
+BetaCorp,Sprint 5,API - Optimize response time for user profile fetch API,197,150,5,Highest,-
+ACME,Sprint 6,DevOps - Optimize logging system for better error tracking,198,156,3,Medium,-
+BetaCorp,Sprint 4,Frontend - Fix alignment issues in the profile edit form,54,38,1,Low,-
+ACME,Sprint 4,Frontend - Redesign the navigation bar with improved dropdowns,425,395,5,Low,-
+GammaTech,Sprint 3,API - Fix error handling in the transaction API,190,168,2,High,-
+BetaCorp,Sprint 4,API - Integrate third-party payment gateway API,82,40,1,Medium,-
+ACME,Sprint 5,Bug Fix - Resolve intermittent 500 errors in the checkout flow,183,156,2,Highest,-
+BetaCorp,Sprint 4,API - Develop endpoint for exporting user reports as CSV,188,180,2,Highest,-
+GammaTech,Sprint 3,Frontend - Enhance accessibility features in the dashboard,108,81,1,Highest,-
+BetaCorp,Sprint 6,API - Optimize response time for user profile fetch API,126,80,1,Medium,-
+GammaTech,Sprint 5,DevOps - Set up CI/CD pipeline for automated deployments,103,65,1,High,-
+ACME,Sprint 4,Mobile - Add biometric authentication for login,93,108,3,Low,-
+BetaCorp,Sprint 6,Bug Fix - Resolve issue with incorrect password reset emails,149,159,3,Medium,-
+GammaTech,Sprint 3,Backend - Refactor legacy code in the payment processing module,113,89,1,High,-
+GammaTech,Sprint 5,Frontend - Improve form validation in the signup workflow,179,168,2,Medium,-
+BetaCorp,Sprint 5,Mobile - Refactor mobile app login flow to support OAuth,126,134,2,Highest,-
+BetaCorp,Sprint 3,DevOps - Set up CI/CD pipeline for automated deployments,63,48,1,High,-
+ACME,Sprint 3,DevOps - Automate infrastructure scaling during peak hours,197,170,5,Low,-
+BetaCorp,Sprint 3,DevOps - Automate infrastructure scaling during peak hours,249,250,5,Medium,-
+ACME,Sprint 6,DevOps - Optimize logging system for better error tracking,419,415,5,Highest,-
+GammaTech,Sprint 3,Backend - Optimize database indexing for faster query execution,429,435,5,High,-
+GammaTech,Sprint 5,Mobile - Refactor mobile app login flow to support OAuth,139,135,3,Medium,-
+GammaTech,Sprint 6,Backend - Implement JWT-based authentication in user login API,378,340,5,Medium,-
+ACME,Sprint 6,DevOps - Migrate server infrastructure to Kubernetes,97,68,1,Medium,-
+BetaCorp,Sprint 3,Backend - Implement JWT-based authentication in user login API,228,210,5,Low,-
+GammaTech,Sprint 4,Mobile - Improve app loading speed by optimizing images,240,222,3,High,-
+BetaCorp,Sprint 5,Mobile - Refactor mobile app login flow to support OAuth,70,68,2,Highest,-
+ACME,Sprint 5,Backend - Refactor legacy code in the payment processing module,433,405,5,Low,-
+BetaCorp,Sprint 6,Bug Fix - Resolve intermittent 500 errors in the checkout flow,453,440,5,Low,-
+GammaTech,Sprint 6,DevOps - Set up CI/CD pipeline for automated deployments,134,87,1,Low,-
+BetaCorp,Sprint 6,API - Integrate third-party payment gateway API,148,159,3,Low,-
+GammaTech,Sprint 6,Backend - Create batch processing for user data synchronization,298,261,3,Medium,-
+GammaTech,Sprint 6,API - Develop endpoint for exporting user reports as CSV,396,400,5,Low,-
+BetaCorp,Sprint 4,Frontend - Improve form validation in the signup workflow,155,108,2,Medium,-
+BetaCorp,Sprint 6,DevOps - Set up CI/CD pipeline for automated deployments,340,345,5,Highest,-
+GammaTech,Sprint 3,Backend - Optimize database indexing for faster query execution,119,78,2,Medium,-
+ACME,Sprint 3,API - Develop endpoint for exporting user reports as CSV,145,110,2,High,-
+ACME,Sprint 6,DevOps - Set up CI/CD pipeline for automated deployments,222,189,3,High,-
+GammaTech,Sprint 3,Mobile - Refactor mobile app login flow to support OAuth,89,64,2,Highest,-
+GammaTech,Sprint 4,Backend - Create batch processing for user data synchronization,64,47,1,Low,-
+ACME,Sprint 6,Mobile - Improve app loading speed by optimizing images,180,159,3,Highest,-
+ACME,Sprint 4,API - Implement rate limiting for login attempts,239,219,3,Highest,-
+ACME,Sprint 5,Backend - Optimize database indexing for faster query execution,188,195,3,Medium,-
+ACME,Sprint 3,Frontend - Implement dark mode toggle in user settings,136,124,2,High,-
+BetaCorp,Sprint 6,Frontend - Improve form validation in the signup workflow,103,117,3,Highest,-
+ACME,Sprint 3,Frontend - Fix alignment issues in the profile edit form,252,267,3,Medium,-
+ACME,Sprint 6,DevOps - Migrate server infrastructure to Kubernetes,149,144,2,Low,-
+BetaCorp,Sprint 5,Frontend - Fix alignment issues in the profile edit form,267,225,5,Medium,-
+BetaCorp,Sprint 6,Mobile - Improve app loading speed by optimizing images,184,160,5,Highest,-
+ACME,Sprint 4,Frontend - Improve form validation in the signup workflow,268,237,3,Highest,-
+BetaCorp,Sprint 3,Mobile - Fix UI glitches in the Android profile screen,76,33,1,Medium,-
+ACME,Sprint 5,Mobile - Improve app loading speed by optimizing images,223,222,3,Low,-
+GammaTech,Sprint 3,API - Develop endpoint for exporting user reports as CSV,205,178,2,Highest,-
+GammaTech,Sprint 4,Mobile - Fix UI glitches in the Android profile screen,134,150,5,Low,-
+BetaCorp,Sprint 3,Bug Fix - Resolve intermittent 500 errors in the checkout flow,60,71,1,High,-
+BetaCorp,Sprint 6,DevOps - Automate infrastructure scaling during peak hours,323,280,5,Medium,-
+ACME,Sprint 5,Backend - Optimize database indexing for faster query execution,42,46,1,Low,-
+BetaCorp,Sprint 5,Bug Fix - Resolve intermittent 500 errors in the checkout flow,490,440,5,High,-
+GammaTech,Sprint 4,API - Fix error handling in the transaction API,113,128,2,Highest,-
+ACME,Sprint 4,Mobile - Add biometric authentication for login,175,132,2,Medium,-
+BetaCorp,Sprint 6,DevOps - Migrate server infrastructure to Kubernetes,382,370,5,Highest,-
+BetaCorp,Sprint 3,DevOps - Migrate server infrastructure to Kubernetes,223,205,5,High,-
+ACME,Sprint 4,DevOps - Set up CI/CD pipeline for automated deployments,77,35,1,High,-
+GammaTech,Sprint 4,Frontend - Enhance accessibility features in the dashboard,63,62,2,Medium,-
+ACME,Sprint 5,API - Fix error handling in the transaction API,300,252,3,Highest,-
+ACME,Sprint 3,Backend - Implement JWT-based authentication in user login API,107,72,1,Low,-
+BetaCorp,Sprint 5,DevOps - Set up CI/CD pipeline for automated deployments,76,49,1,High,-
+GammaTech,Sprint 3,DevOps - Migrate server infrastructure to Kubernetes,182,138,3,High,-
+BetaCorp,Sprint 6,Mobile - Implement push notifications for new user messages,139,147,3,Medium,-
+ACME,Sprint 5,Backend - Create batch processing for user data synchronization,208,166,2,Medium,-
+BetaCorp,Sprint 6,Backend - Improve caching mechanism for frequently accessed data,62,41,1,High,-
+ACME,Sprint 6,API - Implement rate limiting for login attempts,140,135,3,Low,-
+GammaTech,Sprint 4,Backend - Implement JWT-based authentication in user login API,195,156,2,Medium,-
+ACME,Sprint 3,DevOps - Optimize logging system for better error tracking,148,134,2,Highest,-
+GammaTech,Sprint 5,DevOps - Migrate server infrastructure to Kubernetes,101,73,1,Highest,-
+ACME,Sprint 3,DevOps - Migrate server infrastructure to Kubernetes,103,89,1,High,-
+GammaTech,Sprint 6,Mobile - Improve app loading speed by optimizing images,82,86,1,Low,-
+GammaTech,Sprint 3,Bug Fix - Address UI flickering issues in dark mode,205,171,3,High,-
+GammaTech,Sprint 6,Frontend - Enhance accessibility features in the dashboard,77,68,2,High,-
+ACME,Sprint 3,API - Integrate third-party payment gateway API,272,249,3,Low,-
+GammaTech,Sprint 6,Frontend - Fix alignment issues in the profile edit form,36,47,1,Low,-
+BetaCorp,Sprint 5,DevOps - Set up CI/CD pipeline for automated deployments,319,330,5,Low,-
+ACME,Sprint 6,Frontend - Implement dark mode toggle in user settings,58,62,1,High,-
+ACME,Sprint 6,DevOps - Improve database backup and recovery procedures,422,425,5,Low,-
+GammaTech,Sprint 5,Backend - Create batch processing for user data synchronization,138,146,2,Medium,-
+GammaTech,Sprint 4,DevOps - Automate infrastructure scaling during peak hours,150,129,3,High,-
+ACME,Sprint 4,DevOps - Set up CI/CD pipeline for automated deployments,198,175,5,Highest,-
+GammaTech,Sprint 4,Mobile - Add biometric authentication for login,161,147,3,Low,-
+GammaTech,Sprint 5,API - Fix error handling in the transaction API,160,142,2,Medium,-
+ACME,Sprint 3,Frontend - Implement dark mode toggle in user settings,78,57,1,Highest,-
+ACME,Sprint 3,DevOps - Migrate server infrastructure to Kubernetes,261,250,5,Medium,-
+GammaTech,Sprint 6,Mobile - Implement push notifications for new user messages,130,142,2,Medium,-
+BetaCorp,Sprint 6,Mobile - Implement push notifications for new user messages,234,222,3,Highest,-
+ACME,Sprint 6,API - Integrate third-party payment gateway API,144,117,3,Low,-
+GammaTech,Sprint 6,Bug Fix - Resolve issue with incorrect password reset emails,79,44,1,Highest,-
+GammaTech,Sprint 6,Backend - Refactor legacy code in the payment processing module,118,82,1,Medium,-
+GammaTech,Sprint 6,Frontend - Implement dark mode toggle in user settings,137,116,2,Highest,-
+BetaCorp,Sprint 6,Mobile - Improve app loading speed by optimizing images,253,250,5,Medium,-
+GammaTech,Sprint 4,Backend - Create batch processing for user data synchronization,186,195,3,High,-
+ACME,Sprint 5,Backend - Implement JWT-based authentication in user login API,143,147,3,Medium,-
+ACME,Sprint 3,Backend - Create batch processing for user data synchronization,415,395,5,Low,-
+GammaTech,Sprint 3,Frontend - Implement dark mode toggle in user settings,370,365,5,Medium,-
+ACME,Sprint 5,Bug Fix - Address UI flickering issues in dark mode,273,267,3,Medium,-
+ACME,Sprint 3,DevOps - Migrate server infrastructure to Kubernetes,162,130,2,High,-
+GammaTech,Sprint 4,Backend - Implement JWT-based authentication in user login API,30,42,1,Low,-
+GammaTech,Sprint 4,Bug Fix - Fix broken links in the email verification page,441,395,5,Medium,-
+GammaTech,Sprint 5,DevOps - Improve database backup and recovery procedures,133,92,2,Highest,-
+GammaTech,Sprint 4,Mobile - Implement push notifications for new user messages,248,201,3,High,-
+ACME,Sprint 4,Mobile - Fix UI glitches in the Android profile screen,193,195,3,Medium,-
+BetaCorp,Sprint 3,Mobile - Implement push notifications for new user messages,168,140,2,High,-
+ACME,Sprint 6,Backend - Implement JWT-based authentication in user login API,176,144,2,Highest,-
+BetaCorp,Sprint 3,Mobile - Add biometric authentication for login,194,146,2,Medium,-
+BetaCorp,Sprint 4,Frontend - Redesign the navigation bar with improved dropdowns,212,180,5,Medium,-
+GammaTech,Sprint 5,Bug Fix - Resolve intermittent 500 errors in the checkout flow,120,110,2,Highest,-
+BetaCorp,Sprint 5,DevOps - Automate infrastructure scaling during peak hours,435,410,5,Low,-
+GammaTech,Sprint 3,Mobile - Add biometric authentication for login,108,102,2,Medium,-
+ACME,Sprint 3,Frontend - Improve form validation in the signup workflow,73,89,1,High,-
+BetaCorp,Sprint 4,Bug Fix - Correct inconsistent date formatting in reports,271,243,3,Low,-
+GammaTech,Sprint 6,Bug Fix - Resolve issue with incorrect password reset emails,83,90,2,High,-
+ACME,Sprint 5,DevOps - Optimize logging system for better error tracking,150,108,3,Low,-
+ACME,Sprint 3,Mobile - Implement push notifications for new user messages,140,104,2,Highest,-
+ACME,Sprint 6,Frontend - Improve form validation in the signup workflow,164,123,3,High,-
+ACME,Sprint 6,Mobile - Improve app loading speed by optimizing images,272,270,3,Highest,-
+BetaCorp,Sprint 3,DevOps - Migrate server infrastructure to Kubernetes,178,153,3,Highest,-
+GammaTech,Sprint 5,API - Implement rate limiting for login attempts,75,51,1,Highest,-
+ACME,Sprint 3,DevOps - Automate infrastructure scaling during peak hours,79,80,2,Medium,-
+ACME,Sprint 5,API - Fix error handling in the transaction API,87,82,1,Low,-
+ACME,Sprint 5,Backend - Refactor legacy code in the payment processing module,70,60,2,Medium,-
+GammaTech,Sprint 5,Mobile - Improve app loading speed by optimizing images,158,156,3,Low,-
+ACME,Sprint 5,API - Integrate third-party payment gateway API,240,207,3,Highest,-
+BetaCorp,Sprint 4,Bug Fix - Fix broken links in the email verification page,168,123,3,Medium,-
+GammaTech,Sprint 6,API - Integrate third-party payment gateway API,217,201,3,Medium,-
+BetaCorp,Sprint 5,Backend - Optimize database indexing for faster query execution,421,410,5,High,-
+BetaCorp,Sprint 5,Bug Fix - Resolve issue with incorrect password reset emails,273,258,3,Highest,-
+BetaCorp,Sprint 3,Mobile - Implement push notifications for new user messages,67,86,1,Highest,-
+GammaTech,Sprint 6,API - Develop endpoint for exporting user reports as CSV,161,123,3,Low,-
+BetaCorp,Sprint 5,Frontend - Enhance accessibility features in the dashboard,105,70,2,Low,-
+BetaCorp,Sprint 4,Mobile - Refactor mobile app login flow to support OAuth,224,231,3,Low,-
+ACME,Sprint 3,Mobile - Improve app loading speed by optimizing images,180,189,3,Low,-
+GammaTech,Sprint 4,Mobile - Add biometric authentication for login,261,270,5,Low,-
+GammaTech,Sprint 3,API - Integrate third-party payment gateway API,116,78,2,Medium,-
+BetaCorp,Sprint 3,Backend - Create batch processing for user data synchronization,197,207,3,Medium,-
+GammaTech,Sprint 3,API - Develop endpoint for exporting user reports as CSV,285,249,3,Low,-
+GammaTech,Sprint 4,Bug Fix - Correct inconsistent date formatting in reports,52,62,1,Highest,-
+GammaTech,Sprint 5,DevOps - Optimize logging system for better error tracking,46,65,1,High,-
+GammaTech,Sprint 5,API - Integrate third-party payment gateway API,198,213,3,Low,-
+ACME,Sprint 3,Backend - Implement JWT-based authentication in user login API,276,235,5,Low,-
+ACME,Sprint 6,API - Implement rate limiting for login attempts,63,81,1,High,-
+ACME,Sprint 6,Backend - Implement JWT-based authentication in user login API,290,250,5,Highest,-
+BetaCorp,Sprint 6,DevOps - Migrate server infrastructure to Kubernetes,224,178,2,Medium,-
+BetaCorp,Sprint 4,Backend - Optimize database indexing for faster query execution,107,73,1,Low,-
+ACME,Sprint 6,DevOps - Improve database backup and recovery procedures,51,57,1,Low,-
+GammaTech,Sprint 5,Frontend - Implement dark mode toggle in user settings,145,126,3,Highest,-
+GammaTech,Sprint 6,Frontend - Fix alignment issues in the profile edit form,64,45,1,Highest,-
+BetaCorp,Sprint 3,Bug Fix - Correct inconsistent date formatting in reports,273,225,5,Highest,-
+ACME,Sprint 6,DevOps - Optimize logging system for better error tracking,182,162,2,Low,-
+BetaCorp,Sprint 3,Bug Fix - Fix broken links in the email verification page,89,39,1,High,-
+GammaTech,Sprint 6,Backend - Optimize database indexing for faster query execution,53,35,1,Medium,-
+ACME,Sprint 6,Frontend - Implement dark mode toggle in user settings,109,100,2,High,-
+GammaTech,Sprint 3,Frontend - Improve form validation in the signup workflow,155,153,3,High,-
+GammaTech,Sprint 3,DevOps - Set up CI/CD pipeline for automated deployments,422,420,5,Low,-
+BetaCorp,Sprint 4,Backend - Refactor legacy code in the payment processing module,142,100,2,Medium,-
+BetaCorp,Sprint 6,API - Integrate third-party payment gateway API,114,78,2,Medium,-
+BetaCorp,Sprint 6,Mobile - Add biometric authentication for login,446,445,5,Low,-
+ACME,Sprint 5,Backend - Improve caching mechanism for frequently accessed data,88,59,1,Low,-
+ACME,Sprint 5,Mobile - Improve app loading speed by optimizing images,188,165,5,Medium,-
+ACME,Sprint 3,DevOps - Migrate server infrastructure to Kubernetes,187,180,5,High,-
+ACME,Sprint 5,Bug Fix - Resolve issue with incorrect password reset emails,337,315,5,Medium,-
+GammaTech,Sprint 4,Backend - Create batch processing for user data synchronization,233,228,3,High,-
+BetaCorp,Sprint 5,Frontend - Fix alignment issues in the profile edit form,118,92,2,Medium,-
+GammaTech,Sprint 4,Mobile - Improve app loading speed by optimizing images,222,230,5,Low,-
+BetaCorp,Sprint 4,Bug Fix - Resolve intermittent 500 errors in the checkout flow,179,190,5,Low,-
+ACME,Sprint 5,Mobile - Add biometric authentication for login,397,415,5,Highest,-
+GammaTech,Sprint 4,Backend - Optimize database indexing for faster query execution,144,130,2,Highest,-
+GammaTech,Sprint 5,DevOps - Automate infrastructure scaling during peak hours,156,114,2,High,-
+GammaTech,Sprint 6,Frontend - Redesign the navigation bar with improved dropdowns,165,152,2,Medium,-
+ACME,Sprint 5,Bug Fix - Correct inconsistent date formatting in reports,66,37,1,High,-
+BetaCorp,Sprint 3,DevOps - Automate infrastructure scaling during peak hours,180,160,5,High,-
+GammaTech,Sprint 3,Mobile - Implement push notifications for new user messages,116,96,2,Highest,-
+BetaCorp,Sprint 5,Bug Fix - Address UI flickering issues in dark mode,73,68,1,Medium,-
+GammaTech,Sprint 5,Frontend - Implement dark mode toggle in user settings,181,186,3,Highest,-
+ACME,Sprint 6,Mobile - Refactor mobile app login flow to support OAuth,253,270,5,High,-
+BetaCorp,Sprint 4,Backend - Optimize database indexing for faster query execution,106,61,1,High,-
+ACME,Sprint 6,Bug Fix - Resolve issue with incorrect password reset emails,329,335,5,Medium,-
+GammaTech,Sprint 3,Mobile - Add biometric authentication for login,109,65,1,Medium,-
+BetaCorp,Sprint 5,Bug Fix - Correct inconsistent date formatting in reports,47,36,1,Highest,-
+GammaTech,Sprint 4,Backend - Create batch processing for user data synchronization,158,168,2,Highest,-
+GammaTech,Sprint 6,DevOps - Migrate server infrastructure to Kubernetes,220,180,3,Medium,-
+BetaCorp,Sprint 4,Frontend - Fix alignment issues in the profile edit form,135,86,1,Medium,-
+GammaTech,Sprint 5,Bug Fix - Resolve issue with incorrect password reset emails,165,168,2,Medium,-
+ACME,Sprint 4,Bug Fix - Correct inconsistent date formatting in reports,189,159,3,Highest,-
+BetaCorp,Sprint 6,Bug Fix - Address UI flickering issues in dark mode,210,178,2,High,-
+GammaTech,Sprint 6,Backend - Optimize database indexing for faster query execution,200,195,5,High,-
+BetaCorp,Sprint 3,API - Develop endpoint for exporting user reports as CSV,147,114,3,High,-
+BetaCorp,Sprint 3,Frontend - Fix alignment issues in the profile edit form,144,132,3,High,-
+ACME,Sprint 6,API - Fix error handling in the transaction API,84,90,2,Low,-
+GammaTech,Sprint 3,DevOps - Optimize logging system for better error tracking,168,150,3,Medium,-
+ACME,Sprint 3,DevOps - Migrate server infrastructure to Kubernetes,69,60,2,Low,-
+GammaTech,Sprint 5,DevOps - Improve database backup and recovery procedures,52,64,2,High,-
+GammaTech,Sprint 4,DevOps - Optimize logging system for better error tracking,95,89,1,High,-
+ACME,Sprint 3,Mobile - Add biometric authentication for login,145,108,3,Medium,-
